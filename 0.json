@@ -1,0 +1,12 @@
+{
+    "name": "vesting NFT name",
+    "description": "vesting nft desc ",
+    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-item.jpg?raw=true",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "type_vesting",
+        "value": "voucher"
+      }
+    ]
+  }

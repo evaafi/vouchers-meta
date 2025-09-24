@@ -1,0 +1,13 @@
+{
+    "name": "Vesting master sc name",
+    "description": "vest master sc desc",
+    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-master.jpg?raw=true",
+    "cover_image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-cover.jpg?raw=true",
+    "social_links": [
+      "https://x.com/evaaprotocol",
+      "https://t.me/evaaprotocol",
+      "https://evaa.finance",
+      "https://t.me/EvaaAppBot",
+      "https://t.me/EvaaProtocolHub"
+    ]
+  }

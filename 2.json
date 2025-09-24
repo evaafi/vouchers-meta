@@ -1,0 +1,13 @@
+{
+    "name": "2m here name",
+    "description": "2m here descr",
+    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vouchers-item2m.jpg?raw=true",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "nominal",
+        "value": "2000000"
+      }
+    ]
+}
+
