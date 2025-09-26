@@ -1,6 +1,6 @@
 {
-    "name": "Vesting master sc name",
-    "description": "vest master sc desc",
+    "name": "$EVAA vesting contracts",
+    "description": "$EVAA vesting contracts",
     "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-master.jpg?raw=true",
     "cover_image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-cover.jpg?raw=true",
     "social_links": [

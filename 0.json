@@ -1,6 +1,6 @@
 {
-    "name": "vesting NFT name",
-    "description": "vesting nft desc ",
+    "name": "$EVAA vesting contract",
+    "description": "$EVAA vesting contract",
     "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-item.jpg?raw=true",
     "edition": 1,
     "attributes": [
