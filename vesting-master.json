@@ -1,0 +1,13 @@
+{
+    "name": "$EVAA vesting contracts",
+    "description": "Deploys the $EVAA vesting contract when you activate your EVAA XP voucher.",
+    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting.jpg?raw=true",
+    "cover_image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-cover.jpg?raw=true",
+    "social_links": [
+      "https://x.com/evaaprotocol",
+      "https://t.me/evaafi",
+      "https://evaa.finance",
+      "https://t.me/EvaaAppBot",
+      "https://t.me/EvaaProtocolHub"
+    ]
+  }
