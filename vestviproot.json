@@ -1,7 +1,7 @@
 {
-    "name": "$EVAA vesting contracts",
+    "name": "$EVAA VIP vesting contracts",
     "description": "To claim your $EVAA tokens, please visit https://app.evaa.finance.",
-    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-master.jpg?raw=true",
+    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting.jpg?raw=true",
     "cover_image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-cover.jpg?raw=true",
     "social_links": [
       "https://x.com/evaaprotocol",

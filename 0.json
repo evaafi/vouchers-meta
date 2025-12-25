@@ -1,7 +1,7 @@
 {
     "name": "$EVAA vesting contract",
-    "description": "$EVAA vesting contract",
-    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting-item.jpg?raw=true",
+    "description": "Your $EVAA vesting contract has been successfully deployed upon activation of your EVAA XP voucher. To claim your $EVAA tokens, please visit https://app.evaa.finance.",
+    "image": "https://github.com/evaafi/vouchers-meta/blob/main/vesting.jpg?raw=true",
     "edition": 1,
     "attributes": [
       {
